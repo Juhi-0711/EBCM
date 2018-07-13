@@ -12,7 +12,7 @@ library(keras)
 library(textir)
 library(ggplot2)
 
-
+#Cost=10, gamm=4 after overall data tuning
 
 
 data<-read.csv(file="/Users/yashpal/Desktop/Gooru/all_data.csv",header=TRUE,sep=",")
